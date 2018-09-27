@@ -1,1 +1,2 @@
 https://www.cryptopro.ru/forum2/default.aspx?g=posts&m=79700#post79700
+cryptcp -creatrqst c:\crreq.cer -provtype 75 -cont test -dn "E=test11august@mail.ru, L=Лопня, O=Кафе у Толяна, OU=Отдел шакрмы, CN=Евгений Яковлевич Пужков" -sg -ku
